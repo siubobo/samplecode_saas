@@ -32,6 +32,9 @@ gem 'sdoc', '0.4.0', group: :doc
 # Use gem fog to resolve the syntax error issue
 gem 'fog'
 
+# Use gem devise for user authentication
+gem 'devise', '~> 4.2.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
